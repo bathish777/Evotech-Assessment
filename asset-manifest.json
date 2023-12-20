@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Evotech-Assessment/static/css/main.1e33971a.css",
+    "main.js": "/Evotech-Assessment/static/js/main.b9bbfaea.js",
+    "index.html": "/Evotech-Assessment/index.html",
+    "main.1e33971a.css.map": "/Evotech-Assessment/static/css/main.1e33971a.css.map",
+    "main.b9bbfaea.js.map": "/Evotech-Assessment/static/js/main.b9bbfaea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e33971a.css",
+    "static/js/main.b9bbfaea.js"
+  ]
+}
